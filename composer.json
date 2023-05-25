@@ -1,0 +1,14 @@
+{
+    "name": "admin/com",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Com\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sergey"
+        }
+    ],
+    "require": {}
+}
